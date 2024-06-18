@@ -27,8 +27,8 @@ Before you begin, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/registration-info-rag.git
-   cd registration-info-rag
+   git clone https://github.com/Kaushik0126/Registration_Info_LLM_Backend.git
+   cd Registration_Info_LLM_Backend
    ```
 
 2. **Install dependencies:**
@@ -100,7 +100,7 @@ The frontend part of this application is available on GitHub. You can clone the 
 1. **Clone the frontend repository:**
 
    ```bash
-   git clone https://github.com/Kaushik0126/Registration_Info_LLM
+   git clone https://github.com/Kaushik0126/Registration_Info_LLM.git
    cd Registration_Info_LLM
    ```
 
