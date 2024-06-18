@@ -91,6 +91,35 @@ Before you begin, ensure you have the following installed:
   }
   ```
 
+## Frontend
+
+### View on GitHub
+
+The frontend part of this application is available on GitHub. You can clone the repository and run it locally to see the frontend in action.
+
+1. **Clone the frontend repository:**
+
+   ```bash
+   git clone https://github.com/Kaushik0126/Registration_Info_LLM
+   cd Registration_Info_LLM
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+
+3. **Start the frontend server:**
+
+   ```bash
+   npm start
+   ```
+
+### Live Demo
+
+You can also view the live demo of the frontend [here](https://reginfollm.netlify.app/).
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
